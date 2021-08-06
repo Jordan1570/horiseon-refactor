@@ -14,7 +14,7 @@ Description
 
     https://github.com/Jordan1570/horiseon-refactor
 
-    
+    https://jordan1570.github.io/horiseon-refactor/
 
     ##Usage
     
