@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/*Giving Body Element Background Color*/
 body {
     background-color: #d9dcd6;
 }
@@ -36,16 +36,18 @@ header nav ul {
     list-style-type: none;
 }
 
+
 header nav ul li {
     display: inline;
     margin-left: 25px;
 }
 
+/*giving all <a> elements a color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*giving all <p> elements a font size of 16px*/
 p {
     font-size: 16px;
 }
@@ -69,6 +71,7 @@ p {
     margin-left: 25px;
 }
 
+/*Displaying everything in the main class inline, with margin and width of 75% and 20px*/
 .main {
     width: 75%;
     display: inline-block;
@@ -116,6 +119,7 @@ p {
     text-align: center;
 }
 
+/*displaying image in block form and changing the margin to 10px auto and max width to 150px*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -161,6 +165,7 @@ p {
     color: #ffffff;
 }
 
+/*changing image height to 200px*/
 .search-engine-optimization img {
     max-height: 200px;
 }

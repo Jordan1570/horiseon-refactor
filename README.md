@@ -12,9 +12,13 @@ Description
 
     This stands out because the code and css styling are not difficult to understand and follow. 
 
-    ##Usage
+    https://github.com/Jordan1570/horiseon-refactor
+
     
 
+    ##Usage
+    
+![Screenshot of Horiseon Webpage](./assets/images/Screenshot(17).png)
     
 
 
